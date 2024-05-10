@@ -1,4 +1,4 @@
-# my_gpt
+# EN GRAMMAR CORRECTOR
 
 LLM finetuning
 
